@@ -26,7 +26,7 @@ struct Node* create(char* arr) {
     return newNode;
 }
 
-
+// вставка новго слова в бинарное дерево поиска
 struct Node* Enter(struct Node* treenode, char* arr) {
     if (treenode == NULL) {
         return create(arr);
