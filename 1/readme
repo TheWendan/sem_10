@@ -1,0 +1,2 @@
+gcc main.c 10.c 
+./a file -o desc  (./a file -o asc)
