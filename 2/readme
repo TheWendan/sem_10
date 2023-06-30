@@ -1,1 +1,2 @@
-gcc
+gcc 10.c main.c
+./a
